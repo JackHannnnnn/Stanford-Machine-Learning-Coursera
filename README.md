@@ -1,2 +1,2 @@
 # Stanford_Machine_Learning_Coursera
-This is an online Machine Learning course by Stanford University on coursera.org and I earned a certificate with a 100% final grade. This repository contains programming assignments I completed using Matlab.
+This is an online Machine Learning course by Stanford University on coursera.org and I earned a certificate with a 100% final grade. This repository contains programming assignments I completed using Matlab such as implementing some common Machine Learning algorithms like Linear regression, KMeans, Logistic regression, or handling several simple problems related to Machine Learning.
